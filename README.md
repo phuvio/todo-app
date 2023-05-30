@@ -11,3 +11,8 @@ Build the project with *pip install --no-cache-dir -r requirements.txt*.
 Run with *flask run*.
 
 The project should open in 5000.
+
+## Deploy to Render
+You can also try the app on Render
+
+https://todo-app-slfp.onrender.com/
