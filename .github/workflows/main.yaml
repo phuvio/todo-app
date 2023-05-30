@@ -1,4 +1,5 @@
 name: Render
+on:
 jobs:
   deploy:
     name: Wait for Deploy
